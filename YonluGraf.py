@@ -5,8 +5,6 @@
 #b. Eigenvector değerlerinin; derece, yakınlık ve aradalık değerleri ile korelasyonunu
 #hesaplatmak
 
-#Havva Nida Arslan 181002047 
-#Esra Aktaş 181002030
 
 import networkx as nx #networkx kütüphanesini import ettik.
 
